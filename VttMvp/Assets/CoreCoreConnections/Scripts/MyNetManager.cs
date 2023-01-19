@@ -4,7 +4,7 @@ using UnityEngine;
 using Entities.Features;
 using Entities;
 using Connection.Response;
-using DndCore.Ability;
+using VttCore.Ability;
 using System;
 using System.Linq;
 using Connection.Request;

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DndCore.Ability
+namespace VttCore.Ability
 {
     public class AbilityBrief
     {

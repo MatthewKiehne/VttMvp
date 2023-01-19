@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using DndCore.Ability;
+using VttCore.Ability;
 using MoonSharp.Interpreter;
 using UnityEngine;
 

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using MoonSharp.Interpreter;
 using UnityEngine;
 
-namespace DndCore.Ability
+namespace VttCore.Ability
 {
     public class Ability
     {

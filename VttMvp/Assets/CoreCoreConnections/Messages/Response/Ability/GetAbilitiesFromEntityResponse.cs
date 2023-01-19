@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using DndCore.Ability;
+using VttCore.Ability;
 using Mirror;
 
 namespace Connection.Response

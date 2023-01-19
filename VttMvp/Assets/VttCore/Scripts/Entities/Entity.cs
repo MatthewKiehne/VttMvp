@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using DndCore.Ability;
+using VttCore.Ability;
 using Entities.Features;
 
 namespace Entities

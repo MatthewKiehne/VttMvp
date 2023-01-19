@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DndCore.Ability
+namespace VttCore.Ability
 {
     public class AbilityPlayerInput
     {

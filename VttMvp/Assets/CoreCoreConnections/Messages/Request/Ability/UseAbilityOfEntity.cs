@@ -1,4 +1,4 @@
-using DndCore.Ability;
+using VttCore.Ability;
 using Mirror;
 using System;
 using System.Collections.Generic;

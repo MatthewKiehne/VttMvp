@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using DndCore.Ability;
+using VttCore.Ability;
 using Entities.Features;
 
 namespace Entities

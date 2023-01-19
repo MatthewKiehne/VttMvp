@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Connection.Request;
 using Connection.Response;
-using DndCore.Ability;
+using VttCore.Ability;
 using Mirror;
 using MoonSharp.Interpreter;
 using UnityEngine;
